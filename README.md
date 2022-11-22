@@ -13,7 +13,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/_lu.cad_#gh-dark-mode-only)
 
 ### Languages and Tools:
-[![Top Langs](https://github-readme-stats-neon-chi.vercel.app/api/top-langs/?username=LucasOsborne&layout=compact&count_private=true)](https://github.com/LucasOsborne/github-readme-stats)
+<img alt="LucasOsborne's Most used languages" src="https://github-readme-stats-neon-chi.vercel.app/api/top-langs/?username=LucasOsborne&layout=compact"/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
