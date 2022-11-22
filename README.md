@@ -7,13 +7,15 @@
 -   🌱 I’m currently learning C#
 -   🥅 2022 Goals: Learn more about C# and contribute to open source projects
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-gamma-six-45.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mfjul41ag6ovj06z323os8f5a)
+
 ### Connect with me:
 
 [![website](./img/instagram-light.svg)](https://instagram.com/_lu.cad_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_lu.cad_#gh-dark-mode-only)
 
 ### Languages and Tools:
-<img alt="LucasOsborne's Most used languages" src="https://github-readme-stats-neon-chi.vercel.app/api/top-langs/?username=LucasOsborne&layout=compact"/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -39,9 +41,12 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
+  <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="LucasOsborne's GitHub Stats" src="https://github-readme-stats-neon-chi.vercel.app/api?username=LucasOsborne&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
