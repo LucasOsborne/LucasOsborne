@@ -1,6 +1,7 @@
 # Hi there, I'm Lucas 👋
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/GitHub.github-vscode-theme?label=github-themes%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=github-themes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOsborne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm a Student and Developer!
 
@@ -38,14 +39,9 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="LucasOsborne's GitHub Stats" src="https://github-readme-stats-neon-chi.vercel.app/api?username=LucasOsborne&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
