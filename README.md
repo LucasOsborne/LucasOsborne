@@ -8,7 +8,7 @@
 -   🥅 2022 Goals: Learn more about C# and contribute to open source projects
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-gamma-six-45.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mfjul41ag6ovj06z323os8f5a)
+![Spotify](https://novatorem-gamma-six-45.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)
 
 ### Connect with me:
 
