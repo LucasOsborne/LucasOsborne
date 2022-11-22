@@ -1,7 +1,6 @@
 # Hi there, I'm Lucas 👋
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/GitHub.github-vscode-theme?label=github-themes%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=github-themes)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOsborne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm a Student and Developer!
 
@@ -14,6 +13,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/_lu.cad_#gh-dark-mode-only)
 
 ### Languages and Tools:
+[![Top Langs](https://github-readme-stats-neon-chi.vercel.app/api/top-langs/?username=LucasOsborne&layout=compact&count_private=true)](https://github.com/LucasOsborne/github-readme-stats)
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
