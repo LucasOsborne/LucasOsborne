@@ -5,7 +5,7 @@
 ## I'm a Student and Developer!
 
 -   🌱 I’m currently learning C#
--   🥅 2022 Goals: Learn more about C# and contribute to open source projects
+-   🥅 2023 Goals: Learn more about C# and contribute to open source projects
 
 ### Spotify Playing 🎧
 ![Spotify](https://novatorem-gamma-six-45.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)
