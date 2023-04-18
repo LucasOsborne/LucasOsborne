@@ -42,10 +42,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 <a>
-  <img align="center" alt="LucasOsborne's GitHub Stats" src="https://github-readme-stats-neon-chi.vercel.app/api?username=LucasOsborne&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="center" alt="LucasOsborne's GitHub Stats" src="https://github-readme-stats-sigma-nine-52.vercel.app/api?username=LucasOsborne&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   </a>
   <a>
-  <img align="center" alt="LucasOsborne's GitHub Stats" src"https://github-readme-stats-neon-chi.vercel.app/api/top-langs/?username=LucasOsborne&layout=compact"/>
+  <img align="center" alt="LucasOsborne's GitHub Stats" src"https://github-readme-stats-sigma-nine-52.vercel.app/api/top-langs/?username=LucasOsborne&layout=compact"/>
   </a>
 </details>
 
