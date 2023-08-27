@@ -13,8 +13,8 @@
 ### Connect with me:
 
 [![website](./img/instagram-light.svg)](https://instagram.com/_lu.cad_#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_lu.cad_#gh-dark-mode-only)
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/lucas-osborne/#gh-dark-mode-only)
+[![website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lu.cad_#gh-dark-mode-only)
+[![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-osborne/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
