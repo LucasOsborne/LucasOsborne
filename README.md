@@ -14,6 +14,8 @@
 
 [![website](./img/instagram-light.svg)](https://instagram.com/_lu.cad_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_lu.cad_#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)]([https://instagram.com/_lu.cad_](https://www.linkedin.com/in/lucas-osborne/)#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)]([https://instagram.com/_lu.cad_](https://www.linkedin.com/in/lucas-osborne/)#gh-dark-mode-only)
 
 ### Languages and Tools:
 
