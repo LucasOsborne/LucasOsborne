@@ -2,10 +2,10 @@
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/GitHub.github-vscode-theme?label=github-themes%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=github-themes)
 
-## I'm a Student and Developer!
+## I'm a Developer!
 
--   🌱 I’m currently learning C#
--   🥅 2023 Goals: Learn more about C# and contribute to open source projects
+-   🌱 I’m currently learning ASP.NET
+-   🥅 2023 Goals: Learn more about test driven development and clean code architecture.
 
 ### Spotify Playing 🎧
 ![Spotify](https://novatorem-gamma-six-45.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)
