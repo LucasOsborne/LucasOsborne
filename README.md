@@ -4,8 +4,8 @@
 
 ## I'm a Developer!
 
--   🌱 I’m currently learning ASP.NET
--   🥅 2023 Goals: Learn more about test driven development and clean code architecture.
+-   🌱 I’m currently learning Clean architecture
+-   🥅 2023 Goals: Learn more about test driven development.
 
 ### Spotify Playing 🎧
 ![Spotify](https://novatorem-gamma-six-45.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)
