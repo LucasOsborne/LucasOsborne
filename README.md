@@ -1,19 +1,9 @@
 # Hi there, I'm Lucas 👋
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/GitHub.github-vscode-theme?label=github-themes%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=github-themes)
-
-## I'm a Developer!
-
--   🌱 I’m currently learning Clean architecture
--   🥅 2023 Goals: Learn more about test driven development.
-
-### Spotify Playing 🎧
-![Spotify](https://novatorem-gamma-six-45.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)
+## I'm a C# Developer!
 
 ### Connect with me:
 
-[![website](./img/instagram-light.svg)](https://instagram.com/_lu.cad_#gh-light-mode-only)
-[![website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lu.cad_#gh-dark-mode-only)
 [![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-osborne/#gh-dark-mode-only)
 
 ### Languages and Tools:
